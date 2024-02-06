@@ -16,7 +16,7 @@ Keep a copy of the old cool-retro-term.colorscheme file IMPORTANT: you want to k
 
 chmod +x the script to make it executable
 
-Install wpgtk package 
+Install the wpgtk package 
 
 The script only works if you launch it in root (sudo) 
 
