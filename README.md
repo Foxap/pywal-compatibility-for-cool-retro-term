@@ -22,7 +22,7 @@ The script only works if you launch it in root (sudo)
 
 To test it, open a terminal in the script folder (where he is placed) and type sudo ./nameofthescript.sh  
 
-Open cool-retro-term to check if it worked 
+Open cool-retro-term set the Profile to "Default Pixelated" to check if it worked , modify it to your liking and save it .
 
 You can modify the "Color=${color}" lines in the script to choose what you like .
 
