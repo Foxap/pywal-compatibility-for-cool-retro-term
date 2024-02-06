@@ -28,4 +28,4 @@ You can modify the "Color=${color}" lines in the script to choose what you like 
 
 neofetch can help you to preview the colors in another terminal, the colors start from 0 to 7 for the first line and 8 to 15 for the second line .
 
-You can make the script launch when you start the system , launch it manually , Use a shortcuts , make it change the colors when you change your background , etc . 
+You can make the script launch when you start the system , launch it manually , use a shortcut , make it change the colors when you change your background , etc . 
