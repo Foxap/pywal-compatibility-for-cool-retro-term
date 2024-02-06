@@ -7,7 +7,7 @@ Old script link : https://pastebin.com/w6a6ZEyE
 
 Download or copy the script
 
-Place it wherever you want (example: you scripts folder)
+Place it wherever you want (example: your scripts folder)
 
 Open it in a text editor to check if the cool-retro-term.colorscheme directory is right for your system especially for the mv line (it's at the bottom)
 (mine was in /usr/lib/qt/qml/QMLTermWidget/color-schemes) (reminder that you can use the find command)
