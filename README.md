@@ -1,4 +1,4 @@
-# pywal-compatibility-for-cool-retro-term
+# pywal compatibility for cool-retro-term
 Copy and update of the script from https://www.reddit.com/r/unixporn/comments/l3i7st/i3_lain_and_coolretroterm_with_pywal_colors/
 
 Old script link : https://pastebin.com/w6a6ZEyE
